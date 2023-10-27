@@ -13,21 +13,21 @@ Java: java version "21.0.1"
 Selenium: 3.13.0
 TestNg: 6.9.10
 Log4j: 1.2.17
+Eclipse or any java IDE
 
 Installation
 To install the project and its dependencies, follow these steps:
 
 Clone the repository:
 
-git clone https://github.com/ArpitDubey05/ArpitDubey05---uiAssingment.git
+git clone https://github.com/AkanshaRaghuwanshi/BMC.git---BMC
 Navigate to the project directory:
 
-shell cd ArpitDubey05---uiAssingment
+shell cd AkanshaRaghuwanshi---BMC
 
-Install the dependencies: npm install
+Install the dependencies: mvn install
 
-update the username and password in data.json file
 
-To run the automation script, use the following command: npm run start
+you can run the code directly from the IDE .
 
-When you have the project in your localk repo you can use :npx playwright test to start the test in headless mode and npx playwright test --headed for headed mode
+
